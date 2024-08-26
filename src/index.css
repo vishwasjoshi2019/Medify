@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 :root {
   --color-white: #ffffff;
 }
@@ -77,18 +76,4 @@ h6 {
   background: #2AA7FF;
   outline : 1px solid #2AA7FF;
   outline-offset: 4px;
-=======
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
->>>>>>> f99e1ce5735e7796d3f6893a7eefcbcba9f608dd
 }
